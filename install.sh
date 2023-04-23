@@ -1,8 +1,8 @@
 #!/bin/bash
 
-VERSION="0.9.93"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/linux"
-ORIGIN_EXEC="rustminersystem-${VERSION}"
+VERSION="0.0.1"
+DOWNLOAD_HOST="https://github.com/jackchen456789/ChenMiner/raw/main/linux"
+ORIGIN_EXEC="chenminer-${VERSION}"
 
 SERVICE_NAME="rustservice"
 
